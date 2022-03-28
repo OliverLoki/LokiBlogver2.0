@@ -6,11 +6,11 @@ Version3正在搭建中
 
 > 部分截图
 
-![image-20220328193524131](D:\桌面\P_picture_cahe\image-20220328193524131.png)
+![image-20220328193524131](https://s2.loli.net/2022/03/28/1QsoRku2CpEc9fJ.png)
 
-![image-20220328193457267](D:\桌面\P_picture_cahe\image-20220328193457267.png)
+![image-20220328193457267](https://s2.loli.net/2022/03/28/zR8nwpaDdSIL5kh.png)
 
-![image-20220328193103498](D:\桌面\P_picture_cahe\image-20220328193103498.png)
+![image-20220328193103498](https://s2.loli.net/2022/03/28/n1dCxei7obSsfgc.png)
 
 > 技术选择
 
