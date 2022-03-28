@@ -78,23 +78,23 @@ MySQL 8.0.23
 
   对gmt字段的解释：在代码层面实现创建和更新时间的自动更新
 
-  ![image-20211019230154311](D:\桌面\P_picture_cahe\image-20211019230154311.png)
+  ![image-20211019230154311](https://s2.loli.net/2022/03/28/4xd3KjGO5SQDtua.png)
 
 - 分类数据表：type
 
-  ![image-20211019230214236](D:\桌面\P_picture_cahe\image-20211019230214236.png)
+  ![image-20211019230214236](https://s2.loli.net/2022/03/28/R7SNYn6dc1OfeaL.png)
 
 - 用户数据表：user
 
-  ![image-20211019230240146](D:\桌面\P_picture_cahe\image-20211019230240146.png)
+  ![image-20211019230240146](https://s2.loli.net/2022/03/28/dVDzQjO1Z5rslvh.png)
 
 - 评论数据表：comment
 
-  ![image-20211019230511252](D:\桌面\P_picture_cahe\image-20211019230511252.png)
+  ![image-20211019230511252](https://s2.loli.net/2022/03/28/TFe86xONWfEmA2V.png)
 
 - 标签数据表： tags
 
-  ![image-20211019225133878](D:\桌面\P_picture_cahe\image-20211019225133878.png)
+  ![image-20211019225133878](https://s2.loli.net/2022/03/28/CQFWrZqpKzUaMcY.png)
 
 + 标签博客数据表
 
@@ -109,7 +109,7 @@ MySQL 8.0.23
 
 - 相册数据表：picture
 
-  ![image-20211019225054632](D:\桌面\P_picture_cahe\image-20211019225054632.png)
+  ![image-20211019225054632](https://s2.loli.net/2022/03/28/m9VBrY3ob6eaFhf.png)
 
 ### **实体间关系**
 
@@ -123,7 +123,7 @@ MySQL 8.0.23
 
 
 
-![image-20211018134254356](D:\桌面\P_picture_cahe\image-20211018134254356.png)
+![image-20211018134254356](https://s2.loli.net/2022/03/28/1mc9u7WZXOlMGkd.png)
 
 
 
